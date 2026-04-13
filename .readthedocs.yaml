@@ -9,7 +9,6 @@ build:
     python: "3.13"
   jobs:
     install:
-      - pip install .  # install current
       - pip install -r docs/requirements.txt  # install required
     
 sphinx:
