@@ -14,9 +14,7 @@ release = '0.2.0b-alpha'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [
-    'furo'
-]
+extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -27,5 +25,5 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
-html_static_path = ['_static']
-html_logo = "../icons/icon.png"
+html_static_path = ['docs/_static']
+html_logo = "docs/icons/icon.png"
