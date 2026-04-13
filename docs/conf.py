@@ -26,4 +26,4 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['docs/_static']
-html_logo = "docs/icons/icon.png"
+html_logo = 'icons/icon.png'
