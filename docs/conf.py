@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '[This]'
+project = 'this-docs'
 copyright = '2026, Jensen Salinas'
 author = 'Jensen Salinas'
 release = '0.2.0b-alpha'
